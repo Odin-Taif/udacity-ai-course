@@ -1,0 +1,7 @@
+[project]
+name = "udacity-ai-course"
+version = "0.1.0"
+description = ""
+authors = ["Odino"]
+requires-python = ">=3.11"
+dependencies = []
